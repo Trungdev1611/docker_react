@@ -20,3 +20,5 @@ CMD ["npm", "start"]
 #chạy lệnh docker build -t appname .
 #Trong đó, . (dấu chấm) ở cuối câu lệnh cho biết rằng Docker sẽ tìm kiếm Dockerfile trong thư mục hiện tại.
 #-t là tag cho phép đặt tên cho app
+
+đsađaa
